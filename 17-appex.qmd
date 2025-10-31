@@ -1,7 +1,6 @@
 ---
 title: "Decision Trees"
 format: html
-editor: visual
 ---
 
 ```{r}
